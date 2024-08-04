@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 Jerônimo Fagundes da Silva é um profissional altamente experiente na área de Tecnologia da Informação, com uma trajetória notável em desenvolvimento de software e liderança técnica. Formado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul [UFRGS](https://ufrgs.br/), ele desenvolveu um sistema web para armazenamento de coleções de espécimes durante sua graduação.
 
