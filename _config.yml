@@ -3,7 +3,7 @@ timezone: America/Sao_Paulo
 encoding: utf-8
 permalink: /:slug
 show_excerpts: true
-title: Jerônimo Fagundes da Silva - Backend Software Developer
+title: Jerônimo Fagundes da Silva
 author:
   name: Jerônimo Fagundes da Silva
   email: "contato@jeronimo.dev.br"
