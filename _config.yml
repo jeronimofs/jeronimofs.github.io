@@ -1,0 +1,14 @@
+theme: minima
+timezone: America/Sao_Paulo
+encoding: utf-8
+permalink: /:slug
+show_excerpts: true
+title: Jerônimo Fagundes da Silva - Backend Software Developer
+author:
+  name: Jerônimo Fagundes da Silva
+  email: "contato@jeronimo.dev.br"
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jeronimofs" }
+    - { platform: instagram, user_url: "https://instagram.com/jeronimo.dev.br" }
+    - { platform: mastodon, user_url: "https://bolha.us/jeronimofagundes" }
